@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/100749490/157145882-b32f54f9-6cfd-4d00-9461-9ca8bc6d66a7.png)
+
+
 <!--
 **ts-inicis/ts-inicis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
